@@ -1,4 +1,9 @@
 ## Olá! Eu sou a Ellen sampaio
+👩‍💻 Tenho 24 anos e sou natural de Fortaleza/CE.
+
+👩‍💻 Estudo desenvolvimento web na Trybe, e atualmente iniciando o modulo de back-end.
+
+👩‍💻 Meus hobbies são jogar, escutar musicas ou assistir series e filmes.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ellen-sampaio-dev/">
