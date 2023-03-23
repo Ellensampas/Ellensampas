@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Ellen sampaio
-👩‍💻 Tenho 24 anos e sou natural de Fortaleza/CE.
+👩‍💻 Tenho 25 anos e sou natural de Fortaleza/CE.
 
 👩‍💻 Estudo desenvolvimento web na Trybe, e atualmente iniciando o modulo de back-end.
 
