@@ -4,6 +4,10 @@
 👩‍💻 Estudo desenvolvimento web na Trybe, e atualmente iniciando o modulo de back-end.
 
 👩‍💻 Apaixonada por jogos, musicas, series, filmes, livros, esportes e um bom vinho😋 .
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ellensampas&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
   
 ## :rocket: Skills:
 <div style="display: inline_block"><br>
