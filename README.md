@@ -1,12 +1,12 @@
 ## Olá! Eu sou a Ellen sampaio
 👩‍💻 Tenho 25 anos e sou natural de Fortaleza/CE.
 
-👩‍💻 Estudo desenvolvimento web na Trybe, e atualmente estou no modulo de back-end.
+👩‍💻 Estudo desenvolvimento web na Trybe, e atualmente estou no modulo de ciência da computação.
 
 👩‍💻 Apaixonada por jogos, musicas, series, filmes, livros, esportes e um bom vinho😋 .
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ellensampas&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ellensampas)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 ## :rocket: Skills:
